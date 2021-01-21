@@ -1,0 +1,38 @@
+sector,1st_most_common_venue,2nd_most_common_venue,3rd_most_common_venue,4th_most_common_venue,5th_most_common_venue,6th_most_common_venue,7th_most_common_venue,8th_most_common_venue,9th_most_common_venue,10th_most_common_venue
+0,Food,Nature Reserve,Zoo,Mall,Bus Transit,Clinic,Coast,College,Convenience Store,Elementary School
+1,sector,Park,College,Food,Hospital,Bus Transit,Convenience Store,Clinic,Trail,Mall
+2,sector,Food,Coast,Convenience Store,Park,Elementary School,Mall,Bus Transit,Clinic,College
+3,sector,Bus Transit,Trail,Food,Residence,Convenience Store,Rail Transit,Park,College,School
+4,sector,Food,Mall,Bus Transit,Clinic,Coast,College,Convenience Store,Elementary School,High School
+5,sector,Bus Transit,Residence,Food,Convenience Store,College,Clinic,Preschool,Mall,Rail Transit
+6,sector,Food,Bus Transit,Park,Mall,Clinic,Coast,College,Convenience Store,Elementary School
+7,sector,Bus Transit,Food,Convenience Store,Park,College,Residence,Clinic,Rail Transit,Mall
+8,sector,Residence,Bus Transit,Food,Convenience Store,Park,Mall,Market,Trail,Rail Transit
+9,sector,Food,Convenience Store,Coast,Trail,Mall,Bus Transit,Clinic,College,Elementary School
+10,sector,Residence,Convenience Store,Bus Transit,Food,Mall,Park,Clinic,High School,Hospital
+11,sector,Food,Nature Reserve,Park,Trail,Zoo,Preschool,Theme Park,Bus Transit,Clinic
+12,sector,Residence,Bus Transit,Food,Convenience Store,College,High School,Park,School,Rail Transit
+13,sector,Bus Transit,Mall,Convenience Store,Park,Food,Residence,Movie Theater,Rail Transit,Trail
+14,sector,Bus Transit,College,Residence,Food,Coast,Park,Convenience Store,High School,Mall
+15,sector,Zoo,Food,Park,Rail Transit,Trail,Bus Transit,Convenience Store,Theme Park,Movie Theater
+16,sector,Residence,Bus Transit,Convenience Store,Food,College,High School,Clinic,Park,Mall
+17,sector,Food,Trail,Nature Reserve,Hospital,Bus Transit,Clinic,Coast,College,Convenience Store
+18,sector,Residence,College,Bus Transit,Food,Convenience Store,Park,Mall,Clinic,High School
+19,sector,Bus Transit,Residence,Convenience Store,Food,Clinic,Coast,Park,College,Mall
+20,sector,Hospital,Bus Transit,Clinic,Food,Trail,Coast,Residence,Rail Transit,Preschool
+21,sector,Food,Bus Transit,College,Coast,Preschool,Mall,Clinic,Convenience Store,Elementary School
+22,sector,College,Bus Transit,Food,Residence,Park,Convenience Store,Hospital,Clinic,Coast
+23,sector,Convenience Store,Bus Transit,Residence,Food,Park,Mall,College,Theme Park,Clinic
+24,sector,Food,Bus Transit,Coast,College,Convenience Store,Trail,Residence,Market,Park
+25,sector,Bus Transit,Residence,Convenience Store,Food,Park,College,Preschool,High School,Coast
+26,sector,Residence,Convenience Store,Food,Bus Transit,College,Clinic,High School,Elementary School,Mall
+27,sector,Theme Park,Food,Park,Bus Transit,Coast,College,Residence,Rail Transit,Convenience Store
+28,sector,Residence,Bus Transit,Convenience Store,Food,College,Park,High School,Trail,Clinic
+29,sector,Convenience Store,Food,Bus Transit,Mall,Park,Theme Park,Clinic,Rail Transit,Movie Theater
+30,sector,Bus Transit,Residence,Food,Park,Convenience Store,College,Rail Transit,Trail,Mall
+33,sector,Bus Transit,Residence,Food,Convenience Store,Clinic,Park,Mall,School,College
+34,sector,Food,Coast,College,Residence,Rail Transit,Market,Park,Nature Reserve,Movie Theater
+35,sector,College,Residence,Bus Transit,Food,Convenience Store,Clinic,Mall,Trail,Park
+37,sector,Park,Food,Bus Transit,Convenience Store,Theme Park,Coast,Mall,Movie Theater,Clinic
+38,sector,Bus Transit,Residence,Food,Trail,High School,Park,College,Convenience Store,School
+39,sector,Food,Zoo,Bus Transit,Park,Coast,College,Mall,School,High School

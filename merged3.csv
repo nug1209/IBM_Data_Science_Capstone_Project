@@ -1,0 +1,38 @@
+center_lat,center_lon,sector,cluster,cluster_name,species_number,1st_most_common_venue,2nd_most_common_venue,3rd_most_common_venue,4th_most_common_venue,5th_most_common_venue,6th_most_common_venue,7th_most_common_venue,8th_most_common_venue,9th_most_common_venue,10th_most_common_venue
+1.4459940663168214,103.7271607470437,11,4,Food & Nature Reserve,266,Food,Nature Reserve,Zoo,Park,Trail,Hospital,Clinic,Coast,College,Convenience Store
+1.4039747035040253,103.9613842678897,9,1,Food,260,Food,Convenience Store,Trail,Coast,Zoo,Clinic,College,Elementary School,High School,Hospital
+1.3423697788332056,103.87340413978876,12,10,Residence 2,260,Residence,Bus Transit,Convenience Store,Food,High School,College,Park,School,Rail Transit,Preschool
+1.4194708469714172,103.72748910063811,0,4,Food & Nature Reserve,239,Food,Nature Reserve,Zoo,Mall,Clinic,Coast,College,Convenience Store,Elementary School,High School
+1.357278108317763,103.7733352932907,3,10,Residence 2,239,Bus Transit,Trail,Food,Residence,Convenience Store,Rail Transit,Park,College,Clinic,School
+1.353501416331836,103.80012787166156,17,4,Food & Nature Reserve,234,Food,Trail,Nature Reserve,Zoo,Mall,Clinic,Coast,College,Convenience Store,Elementary School
+1.396323177317086,103.92617867065614,2,12,Coast 2,230,Food,Coast,Convenience Store,Elementary School,Park,Zoo,Mall,Clinic,College,High School
+1.377627694399132,103.94970738323966,23,2,Residence 1,223,Convenience Store,Bus Transit,Residence,Food,Park,Mall,College,Theme Park,Clinic,Coast
+1.2816921983418426,103.86516586734692,37,8,Park,217,Park,Food,Bus Transit,Convenience Store,Theme Park,Coast,Mall,Movie Theater,Clinic,Rail Transit
+1.3148320519795194,103.81620061595058,1,8,Park,208,Park,College,Food,Hospital,Bus Transit,Clinic,Convenience Store,Trail,Mall,School
+1.268860751947126,103.62964894784047,4,4,Food & Nature Reserve,206,Food,Zoo,Trail,Clinic,Coast,College,Convenience Store,Elementary School,High School,Hospital
+1.338740013534076,103.83112455497718,20,5,Hospital,203,Hospital,Bus Transit,Clinic,Food,Trail,Coast,Residence,Rail Transit,Preschool,Park
+1.3631777770681717,103.82532088638052,38,10,Residence 2,203,Bus Transit,Residence,Food,Trail,High School,College,Park,Convenience Store,School,Nature Reserve
+1.3387780796617692,103.72914752002669,25,2,Residence 1,197,Bus Transit,Residence,Convenience Store,Food,Park,College,Preschool,Trail,Coast,Elementary School
+1.3365111335724404,103.96630152157375,7,6,Bus Transit 1,195,Bus Transit,Food,Convenience Store,Park,College,Residence,Clinic,Rail Transit,Mall,Preschool
+1.418069013853441,103.8970163507109,34,7,Coast,192,Food,Coast,Residence,Rail Transit,College,Market,Mall,Clinic,Convenience Store,Elementary School
+1.27560908506566,103.81188501730887,16,2,Residence 1,191,Residence,Bus Transit,Convenience Store,Food,College,Mall,Clinic,Park,High School,Preschool
+1.247302823559809,103.82756574528545,27,9,Theme Park,191,Theme Park,Food,Park,Bus Transit,Coast,College,Residence,Rail Transit,Convenience Store,Hospital
+1.395489743658931,103.98894603345926,24,1,Food,190,Food,Bus Transit,Coast,College,Convenience Store,Trail,Residence,Market,Park,Nature Reserve
+1.3495148028600605,103.68361385086823,22,11,College,181,College,Bus Transit,Food,Residence,Park,Convenience Store,Mall,Clinic,Coast,Elementary School
+1.2928250926759022,103.84609161418031,13,3,Mall,177,Bus Transit,Mall,Convenience Store,Food,Park,Residence,Movie Theater,Rail Transit,Trail,Clinic
+1.4446758263723165,103.83675119331743,8,2,Residence 1,176,Residence,Bus Transit,Food,Convenience Store,Park,Mall,Market,Trail,Rail Transit,Elementary School
+1.407938871958712,103.8736994101745,21,1,Food,162,Food,Bus Transit,College,Coast,Preschool,Mall,Clinic,Convenience Store,Elementary School,High School
+1.405399240041928,103.7889142033543,15,0,Zoo,158,Zoo,Food,Park,Rail Transit,Trail,Convenience Store,Bus Transit,Movie Theater,Theme Park,College
+1.3022430326620453,103.88042003723135,5,2,Residence 1,155,Bus Transit,Residence,Food,Convenience Store,College,Clinic,Preschool,Mall,High School,Rail Transit
+1.3114496562116378,103.92938563455742,19,2,Residence 1,155,Bus Transit,Residence,Convenience Store,Food,Clinic,Coast,College,Park,Mall,Preschool
+1.3636938904716682,103.84406028806585,10,2,Residence 1,154,Residence,Convenience Store,Bus Transit,Food,Mall,Park,Clinic,High School,Coast,College
+1.2969024463749794,103.76532389053862,14,11,College,151,Bus Transit,College,Residence,Food,Coast,Convenience Store,Park,High School,Mall,Clinic
+1.2843734533616802,103.79099706749933,30,2,Residence 1,150,Bus Transit,Residence,Food,Park,Convenience Store,College,Rail Transit,Trail,Mall,Hospital
+1.3143983949152558,103.78521400635593,35,11,College,144,College,Residence,Bus Transit,Food,Convenience Store,Clinic,Mall,Trail,Park,Elementary School
+1.4440661024925858,103.78252518738016,18,11,College,144,College,Residence,Bus Transit,Food,Convenience Store,Park,Mall,Clinic,High School,Elementary School
+1.379236919903747,103.90385867995874,28,2,Residence 1,138,Residence,Bus Transit,Convenience Store,Food,College,Park,High School,Trail,Clinic,Mall
+1.3187535820327367,103.75431351351351,33,10,Residence 2,136,Bus Transit,Residence,Food,Convenience Store,Clinic,Park,Mall,School,College,High School
+1.3630427683544304,103.70101684367089,6,1,Food,135,Food,Bus Transit,Park,Mall,Clinic,Coast,College,Convenience Store,Elementary School,High School
+1.385055628095452,103.75240882485367,26,2,Residence 1,133,Residence,Convenience Store,Food,Bus Transit,College,Clinic,High School,Elementary School,Mall,School
+1.312898966588966,103.70548717948719,39,0,Zoo,125,Zoo,Food,Bus Transit,Park,Mall,Coast,College,Hospital,Clinic,Convenience Store
+1.3599356215213358,103.98629128014842,29,3,Mall,107,Convenience Store,Food,Bus Transit,Mall,Park,Theme Park,Clinic,Rail Transit,Movie Theater,Trail
